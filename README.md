@@ -1,2 +1,2 @@
 # tests
-Some tests - this is just crap
+This repo was for some of my tests. Now is nothing.
